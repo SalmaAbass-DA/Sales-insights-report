@@ -50,9 +50,11 @@ The analysis generated the following strategic insights:
 • High-performing sales representatives emerged as key drivers of organisational success.
 • Promotional activities influenced purchasing behaviour, although a substantial number of sales occurred without promotional incentives.
 • The engineered quantity categories provided additional understanding of customer purchasing intensity.
+
 8.	Dashboard Overview
- 
- 
+ <img width="960" height="393" alt="Screenshot 2026-06-12 131402" src="https://github.com/user-attachments/assets/1126e8b1-ceca-482a-9d6f-7ecaaf22ea10" />
+<img width="704" height="333" alt="Screenshot 2026-06-10 145518" src="https://github.com/user-attachments/assets/069aa46d-d53b-413a-8e1e-cff21674f48b" />
+
 The dashboard was designed as an executive reporting tool to support data-driven decision-making. Through the use of PivotTables, PivotCharts, slicers, and calculated fields, the dashboard transforms transactional sales data into meaningful business insights.
 Key performance indicators (KPIs) monitored include:
 • Total Revenue
